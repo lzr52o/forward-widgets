@@ -25,3 +25,20 @@
 
 </div>
 
+## 🛠️ 技术栈
+
+<div align="center">
+
+![Skill Icons](https://skillicons.dev/icons?i=js,py,git,github,cloudflare,apple,vscode&theme=dark)
+
+</div>
+
+## 😄 每日一笑
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=forward-widgets&fontSize=24&fontColor=ffffff)
