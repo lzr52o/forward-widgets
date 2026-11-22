@@ -16,12 +16,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzr52o&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&theme=radical" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lzr52o&theme=radical" width="49%" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lzr52o&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lzr52o&theme=github-compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lzr52o&theme=github-compact" width="100%" />
 
 </div>
 
