@@ -36,18 +36,18 @@
 
 <div align="center">
 
-![每日一句](https://daily-sentence.lzr52o.workers.dev/sentence)
+<img src="https://www.dmoe.cc/random.php" height="140" alt="二次元随机图" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" alt="每日一句" /><img src="https://t.mwm.moe/pc/" height="140" alt="二次元随机图" />
 
 </div>
 
-## 🐍 贪吃蛇
+## 🎮 贡献图
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://contrib-rotate.lzr52o.workers.dev/rotate?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://contrib-rotate.lzr52o.workers.dev/rotate?theme=light" />
+  <img alt="贡献图" src="https://contrib-rotate.lzr52o.workers.dev/rotate?theme=light" />
 </picture>
 
 </div>
