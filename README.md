@@ -33,22 +33,22 @@
 
 </div>
 
-## 😄 每日一笑
+## 😄 每日一句
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![每日一句](https://daily-sentence.lzr52o.workers.dev/sentence)
 
 </div>
 
-## 🎮 贡献图
+## 🐍 贪吃蛇
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://contrib-rotate.lzr52o.workers.dev/rotate?theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://contrib-rotate.lzr52o.workers.dev/rotate?theme=light">
-  <img alt="github contribution grid snake animation" src="https://contrib-rotate.lzr52o.workers.dev/rotate?theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lzr52o/Surge/output/github-snake.svg">
 </picture>
 
 </div>
