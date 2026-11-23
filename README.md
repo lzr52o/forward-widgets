@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://www.dmoe.cc/random.php" height="140" alt="二次元随机图" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" alt="每日一句" /><img src="https://t.mwm.moe/pc/" height="140" alt="二次元随机图" />
+<img src="https://www.dmoe.cc/random.php" width="24%" height="140" alt="二次元随机图" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="48%" height="140" alt="每日一句" /><img src="https://t.mwm.moe/pc/" width="24%" height="140" alt="二次元随机图" />
 
 </div>
 
