@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://www.dmoe.cc/random.php" width="160" height="140" alt="랜덤 애니메이션 이미지" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="오늘의 한마디" /><img src="https://www.dmoe.cc/random.php?v=2" width="160" height="140" alt="랜덤 애니메이션 이미지" />
+<img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="오늘의 한마디" />
 
 </div>
 

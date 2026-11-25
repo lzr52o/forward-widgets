@@ -38,7 +38,7 @@ English · [简体中文](README.md) · [日本語](README_JA.md) · [한국어]
 
 <div align="center">
 
-<img src="https://www.dmoe.cc/random.php" width="160" height="140" alt="Random anime image" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Daily Sentence" /><img src="https://www.dmoe.cc/random.php?v=2" width="160" height="140" alt="Random anime image" />
+<img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Daily Sentence" />
 
 </div>
 
